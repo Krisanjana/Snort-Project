@@ -31,8 +31,11 @@ Open Terminal and run some commands in Kali Linux
 
 
 # ls /etc/snort/
-<img width="1221" height="142" alt="Screenshot 2026-08-08 172007" src="https://github.com/user-attachments/assets/2a70cb81-1a60-41cc-8f8d-46146f73bf5c" />
+<img width="1221" height="142" alt="Screenshot 2026-08-08 172007" src="https://github.com/user-attachments/assets/2a70cb81-1a60-41cc-8f8d-46146f73bf5c" />. 
+
+
 Chake  snort Folder
+
 # Writing Rules in Snort
 Basic rules Can be written as the following
 
