@@ -24,5 +24,22 @@ Open Terminal and run some commands in Kali Linux
 <img width="1093" height="416" alt="image" src="https://github.com/user-attachments/assets/849a693b-65cc-4e8f-ae1d-6a074000b7e1" />
 
 # Check snort is install or not by checking version
-## sbort -V
+## snort -V
 <img width="1072" height="433" alt="image" src="https://github.com/user-attachments/assets/9db3018c-6a53-43a8-b106-6ec9089f71fe" />
+
+# Writing Rules in Snort
+Basic rules Can be written as the following
+
+Enter Command
+# sudo nano /etc/snort/rules/local.rules
+
+type your rules
+
+1. alert icmp any any -> any any (msg:"ICMP Traffic Detected"; sid:1000001; rev:1;)
+2. alert tcp any any -> any 80 (msg:"HTTP Traffic Detected"; sid:1000002; rev:1;)
+3. alert tcp any any -> any 443 (msg:"HTTPS Traffic Detected"; sid:1000003; rev:1;)
+
+<img width="1252" height="745" alt="Screenshot 2026-08-08 172415" src="https://github.com/user-attachments/assets/1f908a3e-3549-42e8-8106-0e5582af26a1" />
+Type command for checking the logs
+
+
