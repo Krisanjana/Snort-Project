@@ -20,6 +20,7 @@ Open Terminal and run some commands in Kali Linux
 # Installation on snort on Kali Linux
 
 ## sudo apt install snort -y
+
 <img width="1093" height="416" alt="image" src="https://github.com/user-attachments/assets/849a693b-65cc-4e8f-ae1d-6a074000b7e1" />
 
 # Check snort is install or not by checking version
