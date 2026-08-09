@@ -16,7 +16,9 @@ Snort is a powerful open-source network intrusion detection and prevention syste
 Open Terminal and run some commands in Kali Linux
 ## sudo apt update
 <img width="1273" height="256" alt="Screenshot 2026-08-09 114836" src="https://github.com/user-attachments/assets/2d8ae935-78b0-40d7-8f88-9f926cfc4436" />
+
 # Installation on snort on Kali Linux
+
 ## sudo apt install snort -y
 <img width="1093" height="416" alt="image" src="https://github.com/user-attachments/assets/849a693b-65cc-4e8f-ae1d-6a074000b7e1" />
 
