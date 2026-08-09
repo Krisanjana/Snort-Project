@@ -42,4 +42,5 @@ type your rules
 <img width="1252" height="745" alt="Screenshot 2026-08-08 172415" src="https://github.com/user-attachments/assets/1f908a3e-3549-42e8-8106-0e5582af26a1" />
 Type command for checking the logs
 
+ Next Type (Ctrl + O) --> Enter , (Ctrl + X)
 
