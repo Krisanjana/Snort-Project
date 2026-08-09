@@ -48,9 +48,11 @@ type your rules
 <img width="1252" height="745" alt="Screenshot 2026-08-08 172415" src="https://github.com/user-attachments/assets/1f908a3e-3549-42e8-8106-0e5582af26a1" />
 Type command for checking the logs
 
-** Next Type:-**  it save to press (Ctrl + O) --> Enter ,then exit with (Ctrl + X)
+**Next Type:-** it save to press (Ctrl + O) --> Enter ,then exit with (Ctrl + X)
 # sudo snort -c /etc/snort/snort.lua -R /etc/snort/rules/local.rules -i eth0 -A alert_fast
 
 <img width="988" height="732" alt="Screenshot 2026-08-08 172631" src="https://github.com/user-attachments/assets/0f15e240-79ee-4f2e-b9da-6e2de78d1468" />
+<img width="813" height="712" alt="Screenshot 2026-08-08 172704" src="https://github.com/user-attachments/assets/dbeab2b0-cd04-4636-93e2-1634748b1989" />
+
 <img width="1115" height="565" alt="Screenshot 2026-08-08 180920" src="https://github.com/user-attachments/assets/82ac4725-551b-4739-9753-7203d1118f4d" />
 
