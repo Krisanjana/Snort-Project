@@ -56,3 +56,5 @@ Type command for checking the logs
 
 <img width="1115" height="565" alt="Screenshot 2026-08-08 180920" src="https://github.com/user-attachments/assets/82ac4725-551b-4739-9753-7203d1118f4d" />
 
+## CONCLUSION OF SNORT COMMAND 
+The Snort command is a powerful, flexible, and open-source network security tool that plays a vital role in protecting computer networks. Its real-time traffic analysis, customizable rules, and threat detection capabilities make it widely used in cybersecurity labs, educational environments, enterprise networks, and Security Operations Centers (SOCs).
