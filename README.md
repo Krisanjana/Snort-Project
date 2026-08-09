@@ -1,4 +1,4 @@
-# Snort-Project
+# Snort-IDS-Project
 
 ## INTRODUCTION
 
